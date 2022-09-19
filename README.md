@@ -1,14 +1,19 @@
+
 <div id="counter" align="right">
   <img src="https://komarev.com/ghpvc/?username=rarblack&style=flat-square&color=blue" alt=""/>
 </div>  
 
-<div id="header" align=center>
+$$\mathbb{\color{gold}{\huge R \\ a \\ r \\ b \\ l \\ a \\ c \\ k}}$$
+
+<div id="header" align=center>  
   
   <div class="introduction">
-    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="340"/>
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="590" height="340"/>
   </div>
 
   <!-- --------------------------- SOCIALS ------------------------------- -->
+  
+  </br>
   
   <div class="socials" align=center>
     <a href="https://www.linkedin.com/in/aydinbagiyev/">
@@ -31,7 +36,8 @@
   
   <!-- --------------------------- LANGUAGES AND TOOLS ------------------------------- -->
   
-  ### :hammer_and_wrench: Languages and Tools :
+<!--   ### :hammer_and_wrench: Languages and Tools : -->
+  </br>
   
   <div class="langs_tools">
     <div>
@@ -86,6 +92,8 @@
       <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=rarblack&theme=vision-friendly-dark" alt=""/>
     </a>
   </div>
+  
+  </br>
   
   <div class="stats"> 
     <a href="#">
