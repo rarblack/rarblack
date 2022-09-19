@@ -144,6 +144,17 @@ $$\mathbb{\color{gold}{\huge R \\ a \\ r \\ b \\ l \\ a \\ c \\ k}}$$
   
   <!-- --------------------------- STATS ------------------------------- -->
   
+<!--   </br>
+  
+  <div class="stats"> 
+    <a href="#">
+      <img align=center src="https://github-readme-stats.vercel.app/api?username=rarblack&show_icons=true&theme=vision-friendly-dark&custom_title="/>
+    </a>
+    <a href="#">
+      <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarblack&layout=compact&show_icons=true&theme=vision-friendly-dark&langs_count=8"/>
+    </a>
+  </div> -->
+
   </br>
   
   <div class="stats"> 
@@ -157,13 +168,4 @@ $$\mathbb{\color{gold}{\huge R \\ a \\ r \\ b \\ l \\ a \\ c \\ k}}$$
   
   </br>
   
-  <div class="stats"> 
-    <a href="#">
-      <img align=center src="https://github-readme-stats.vercel.app/api?username=rarblack&show_icons=true&theme=vision-friendly-dark&custom_title="/>
-    </a>
-<!--     <a href="#">
-      <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarblack&layout=compact&show_icons=true&theme=vision-friendly-dark&langs_count=8"/>
-    </a> -->
-  </div>
-
 </div>
