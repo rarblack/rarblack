@@ -150,20 +150,20 @@ $$\mathbb{\color{gold}{\huge R \\ a \\ r \\ b \\ l \\ a \\ c \\ k}}$$
     <a href="#">
       <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=rarblack&theme=vision-friendly-dark" alt=""/>
     </a>
-    <a href="#">
+<!--     <a href="#">
       <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarblack&layout=compact&show_icons=true&theme=vision-friendly-dark&langs_count=8"/>
-    </a>
+    </a> -->
   </div>
   
-<!--   </br> -->
-<!--   
+  </br>
+  
   <div class="stats"> 
     <a href="#">
       <img align=center src="https://github-readme-stats.vercel.app/api?username=rarblack&show_icons=true&theme=vision-friendly-dark&custom_title="/>
     </a>
-    <a href="#">
+<!--     <a href="#">
       <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarblack&layout=compact&show_icons=true&theme=vision-friendly-dark&langs_count=8"/>
-    </a>
-  </div> -->
+    </a> -->
+  </div>
 
 </div>
