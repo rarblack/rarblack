@@ -92,9 +92,6 @@ $$\mathbb{\color{gold}{\huge R \\ a \\ r \\ b \\ l \\ a \\ c \\ k}}$$
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>
       </a>
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="React" width="40" height="40"/>
-      </a>
-      <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
       </a>
       <a href="#">
