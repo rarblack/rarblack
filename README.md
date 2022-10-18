@@ -15,7 +15,7 @@
   </div>
     
   <div id="counter">
-    <img src="https://komarev.com/ghpvc/?username=rarblack&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=rarblack&style=flat-square&color=blue" alt="Counter Icon"/>
   </div>  
     
    <div>
